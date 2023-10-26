@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    background-color: #ffffff; 
+    color:rgb(33, 0, 250);
+}
+
+header {
+    background-color: #ffffff; 
+}
+label, input[type="checkbox"] {
+    color: rgb(33, 0, 250);
+}
